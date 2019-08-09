@@ -32,7 +32,7 @@ Hans Findel    | [@hansfindel]   | [hjfindel@uc.cl]
 Nombre           | GitHub        | Email
 ---------------- | ------------- | ----------------
 Nicolas Acosta   | [@nacosta-cl] | [nlacosta@ing.puc.cl]
-Alejandro Ramirez | ?  | [elramirez@uc.cl]
+Alejandro Ramirez | [@Elramirezv123]  | [elramirez@uc.cl]
 
 [@hansfindel]:   https://github.com/hansfindel
 [@nacosta-cl]:    https://github.com/nacosta-cl
@@ -89,9 +89,9 @@ Se calificara con nota NIE
 
 El curso contará con controles rápidos en clases o ayudantías sobre los contenidos del curso que se vayan viendo. Estas evaluaciones serán sorpresa y se notificarán a criterio del profesor.
 
-La nota de los controles **NC** se calcula como el promedio simple de las notas de controles, descontando el(|los) peor(es) control(es). La falta a un control será calificada con nota 1.1 
+La nota de los controles **NC** se calcula como el promedio simple de las notas de controles, descontando el(los) peor(es) control(es). La falta a un control será calificada con nota 1.1 
 
-**NC = (C<sub>1</sub>+...+C<sub>n</sub>-min_x(C<sub>1</sub>+...+C<sub>n</sub>))/n-1**
+**NC = (C<sub>1</sub>+...+C<sub>n</sub>-min<sub>x</sub>(C<sub>1</sub>+...+C<sub>n</sub>))/n-x**
 
 Donde <sub>n</sub> es el numero de controles que se hagan en el semestre y <sub>x</sub> la cantidad a descontar
 
@@ -114,7 +114,7 @@ Las fases 1 y 3 tienen presentaciones, la semana de la entrega (?????). La fase 
 
 Cada entrega tiene un componente de coevaluación, evaluado en
 
-**E<sub>i</sub> = 1 + ((1 - E<sub>i grupal</sub>) * F<sub>g</sub>)**
+**E<sub>i</sub> = 1 + ((E<sub>i grupal</sub> - 1) * F<sub>g</sub>)**			
 
 Donde F<sub>g</sub> es un factor asignado por el grupo que va de 0 a 1.2
 
