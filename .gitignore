@@ -1,0 +1,8 @@
+lectures/*.key
+./lectures/*.key
+lectures/tmp/*
+./lectures/tmp/*
+tarea/*.tmp
+./tarea/*.tmp
+
+
