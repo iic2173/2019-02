@@ -33,6 +33,8 @@ Nombre           | GitHub        | Email
 ---------------- | ------------- | ----------------
 Nicolas Acosta   | [@nacosta-cl] | [nlacosta@ing.puc.cl]
 Alejandro Ramirez | [@Elramirezv123]  | [elramirez@uc.cl]
+Ignacio Contreras   | [@?] | [icontreras1@uc.cl]
+
 
 [@hansfindel]:   https://github.com/hansfindel
 [@nacosta-cl]:    https://github.com/nacosta-cl
@@ -79,7 +81,7 @@ Interrogación     | Fecha
  2 | Viernes 18 de octubre
  3? | Jueves 21 de noviembre
 
-También el curso contará con un examen obligatorio. Este será el día ??????? de Diciembre a las ????? (fecha, hora, duración y sala por confirmar).
+También el curso contará con un examen obligatorio. Este será un día de diciembre (fecha, hora, duración y sala por confirmar).
 
 Se calificara con nota NIE
 
