@@ -33,15 +33,19 @@ Nombre           | GitHub        | Email
 ---------------- | ------------- | ----------------
 Nicolas Acosta   | [@nacosta-cl] | [nlacosta@ing.puc.cl]
 Alejandro Ramirez | [@Elramirezv123]  | [elramirez@uc.cl]
-Ignacio Contreras   | [@?] | [icontreras1@uc.cl]
+Ignacio Contreras   | [@nachocontreras] | [icontreras1@uc.cl]
 
 
 [@hansfindel]:   https://github.com/hansfindel
 [@nacosta-cl]:    https://github.com/nacosta-cl
+[@elramirezv123]:    https://github.com/elramirezv123
+[@nachocontreras]:    https://github.com/nachocontreras
 
 
 [hjfindel@uc.cl]: mailto:hjfindel@uc.cl
 [nlacosta@ing.puc.cl]:       mailto:nlacosta@ing.puc.cl
+[hjfindel@uc.cl]: mailto:elramirez@uc.cl
+[icontreras1@uc.cl]:       mailto:icontreras1@uc.cl
 
 
 ## Objetivos
@@ -78,10 +82,9 @@ El curso contará con 3 interrogaciones a lo largo del semestre. Estas serán en
 Interrogación     | Fecha
 :----------------:| -----------------------
  1 | Jueves 26 de septiembre
- 2 | Viernes 18 de octubre
- 3? | Jueves 21 de noviembre
+ 2 | Jueves 17 de octubre
 
-También el curso contará con un examen obligatorio. Este será un día de diciembre (fecha, hora, duración y sala por confirmar).
+También el curso contará con un examen obligatorio. Este será un día de noviembre (fecha, hora, duración y sala por confirmar).
 
 Se calificara con nota NIE
 
@@ -91,7 +94,7 @@ Se calificara con nota NIE
 
 El curso contará con controles rápidos en clases o ayudantías sobre los contenidos del curso que se vayan viendo. Estas evaluaciones serán sorpresa y se notificarán a criterio del profesor.
 
-La nota de los controles **NC** se calcula como el promedio simple de las notas de controles, descontando el(los) peor(es) control(es). La falta a un control será calificada con nota 1.1 
+La nota de los controles **NC** se calcula como el promedio simple de las notas de controles, descontando el(los) peor(es) control(es). La falta a un control será calificada con nota 1
 
 **NC = (C<sub>1</sub>+...+C<sub>n</sub>-min<sub>x</sub>(C<sub>1</sub>+...+C<sub>n</sub>))/n-x**
 
@@ -99,34 +102,42 @@ Donde <sub>n</sub> es el numero de controles que se hagan en el semestre y <sub>
 
 ### Proyecto
 
-El curso contará con una tarea introductoria (T<sub>1</sub>) y un proyecto a lo largo del semestre. El proyecto tiene 4 fases y estas son
+El curso contará con una entrega introductoria individual (E<sub>0</sub>) y un proyecto a lo largo del semestre. 
 
 Entrega     | Publicación  | Entrega | Fase
---------------| ------ | --- | ---------
-E<sub>1</sub> | TBA    | TBA | Propuesta y diseño
-E<sub>2</sub> | TBA    | TBA | Prototipo
-E<sub>3</sub> | TBA    | TBA | MVP
-E<sub>4</sub> | TBA    | TBA | Producto finalizado
+--------------| ---------- | ------- | ---------
+E<sub>0</sub> | 21 de agosto | 6 de septiembre 23:59 | Propuesta y diseño
+
+El proyecto grupal tiene 4 fases y estas son
+
+ID fase     | Publicación  | Entrega | Presentacion | Fase
+--------------| ------ | --- | ---- | ---------
+E<sub>1</sub> | 7 de septiembre | 21 de septiembre | 27 de septiembre | Propuesta y diseño
+E<sub>2</sub> | 22 de septiembre  | 11 de octubre | 11 de octubre | Prototipo
+E<sub>3</sub> | 12 de octubre    | 8 de noviembre | 8 de noviembre | MVP
+E<sub>4</sub> | 9 de noviembre   | TBA | TBA | Producto finalizado
 
 Se especificará en clases o ayudantía que se espera del proyecto y la estructuración de los equipos, ademas del desafio a resolver.
 
 Habrá un enunciado disponible para las fases
 
-Las fases 1 y 3 tienen presentaciones, la semana de la entrega (?????). La fase 4 contará con una presentacion que se hace el mismo día de la entrega.
+La entrega grupal tiene un factor de ponderacion por macrogrupo, que se hace de la siguiente forma
+
+**(E<sub>i grupal</sub> = E<sub>grupo individual</sub>*0.7 + E<sub>k macro</sub>*0.3**
 
 Cada entrega tiene un componente de coevaluación, evaluado en
 
 **E<sub>i</sub> = 1 + ((E<sub>i grupal</sub> - 1) * F<sub>g</sub>)**			
 
-Donde F<sub>g</sub> es un factor asignado por el grupo que va de 0 a 1.2
+Donde F<sub>g</sub> es un factor de coevaluación asignado por el grupo que va de 0 a 1.2
 
-La nota del proyecto se calcula como
+La nota del proyecto total individual se calcula como
 
-**NP = 0.15 * T<sub>1</sub> + 0.85 * PROMEDIO(E<sub>1</sub>,E<sub>2</sub>,E<sub>3</sub>,E<sub>4</sub>)**
+**NP = 0.15 * E<sub>0/sub> + 0.85 * PROMEDIO(E<sub>1</sub>,E<sub>2</sub>,E<sub>3</sub>,E<sub>4</sub>)**
 
 ### Criterio de aprobación
 
-Todas las notas se calculan con dos decimales, excepto la nota final que se entrega con un decimal
+Todas las notas se calculan con dos decimales, excepto la nota final que se entrega con un decimal.
 El curso se calificará con las siguientes ponderaciones
 
 **N<sub>calc</sub> = 0.6 * NIE + 0.3 * NP + 0.1 * NC**
