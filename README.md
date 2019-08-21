@@ -123,7 +123,7 @@ Habrá un enunciado disponible para las fases
 
 La entrega grupal tiene un factor de ponderacion por macrogrupo, que se hace de la siguiente forma
 
-**(E<sub>i grupal</sub> = E<sub>grupo individual</sub>*0.7 + E<sub>k macro</sub>*0.3**
+**E<sub>i grupal</sub> = E<sub>grupo individual</sub>*0.7 + E<sub>k macro</sub>*0.3**
 
 Cada entrega tiene un componente de coevaluación, evaluado en
 
