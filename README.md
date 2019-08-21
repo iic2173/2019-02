@@ -44,7 +44,7 @@ Ignacio Contreras   | [@nachocontreras] | [icontreras1@uc.cl]
 
 [hjfindel@uc.cl]: mailto:hjfindel@uc.cl
 [nlacosta@ing.puc.cl]:       mailto:nlacosta@ing.puc.cl
-[hjfindel@uc.cl]: mailto:elramirez@uc.cl
+[elramirez@uc.cl]: mailto:elramirez@uc.cl
 [icontreras1@uc.cl]:       mailto:icontreras1@uc.cl
 
 
