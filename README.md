@@ -104,9 +104,9 @@ Donde <sub>n</sub> es el numero de controles que se hagan en el semestre y <sub>
 
 El curso contará con una entrega introductoria individual (E<sub>0</sub>) y un proyecto a lo largo del semestre. 
 
-Entrega     | Publicación  | Entrega | Fase
---------------| ---------- | ------- | ---------
-E<sub>0</sub> | 21 de agosto | 6 de septiembre 23:59 | Propuesta y diseño
+Entrega     | Publicación  | Entrega
+--------------| ---------- | ------- 
+E<sub>0</sub> | 21 de agosto | 6 de septiembre 23:59 
 
 El proyecto grupal tiene 4 fases y estas son
 
