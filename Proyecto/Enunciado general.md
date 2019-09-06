@@ -35,7 +35,7 @@ Algunos ejemplos de juegos (que no podrán copiar pero si derivar) son:
 - Algun juego tower defense
 - etc ...
 
-Algunos ejemplos de juegos buenisimos pero insuficientes:
+Algunos ejemplos de juegos buenísimos pero insuficientes:
 
 - Real time chess
 - Asteroids
@@ -45,7 +45,7 @@ Algunos ejemplos de juegos buenisimos pero insuficientes:
 - Ajedrez (asumiendo que no programan el motor)
 - etc ...
 
-Algunos de estos podrian cambiar si utilizan multijugador.
+Algunos de estos podrían cambiar si utilizan multijugador.
 Juegos sobredimensionados para este proyecto debido a sus complejas interfaces y reglas (no los vamos a restringir) serían:
 
 - Limbo
@@ -76,9 +76,12 @@ El juego debe ser desarrollado en alguno de los siguientes entornos
   - Unreal engine
 
 Puede ser en celular, escritorio o web. Cualquier otro software que deseen utilizar debe ser permitido en las *issues*.
-Aunque ofrecemos varias opciones, al haber pasado programacion avanzada en algun momento, debieron usar pyqt, lo que es suficiente para comenzar. Eso si, a diferencia de la tarea, seremos mucho mas exigentes, puesto que sera un grupo de 5-6 y todo un semestre.
-Lo importante es que la logica de juego sea expresada en código y que pueda comunicarse de alguna forma con otro software, junto con que ustedes mismos lo hayan escrito.
-A la hora de evaluar sus resultados, el enfoque sera en la logica de juego implementado y que sea muy usable, no por la estética.
+
+Aunque ofrecemos varias opciones, al haber pasado programación avanzada en algun momento, debieron usar *pyqt*, lo que es suficiente para comenzar. Eso si, a diferencia de la tarea, seremos mucho más exigentes, puesto que sera un grupo de 5-6 y todo un semestre.
+
+Lo importante es que la lógica de juego sea expresada en código y que pueda comunicarse de alguna forma con otro software, junto con que ustedes mismos lo hayan escrito.
+
+A la hora de evaluar sus resultados, el enfoque será en la lógica de juego implementado y que sea muy usable, no por la estética.
 
 
 ## The Steam
@@ -89,10 +92,10 @@ En ésta, se deberá poder acceder a los distintos juegos desarrollados por los 
 
 Si el juego es web, la plataforma *The Steam* debe proveerlo directamente. En otro caso, debe proporcionar un ejecutable exe o apk unico que pueda lanzar el juego. No se aceptaran .ipa debido a que es muy dificil probarlos.
 
-Además de la plataforma base, los juegos tienen que tener lo que llamamos "interacciones" en linea. Las interacciones son implementaciones de funcionalidades que permiten interactuar a los juegos entre si. Ejemplos de interacciones son scoreboards conectados, mensajeria in-game, etc.
+Además de la plataforma base, los juegos tienen que tener lo que llamamos "interacciones" en línea. Las interacciones son implementaciones de funcionalidades que permiten interactuar a los juegos entre si. Ejemplos de interacciones son *scoreboards* conectados, mensajeria in-game, etc.
 Todas estas interacciones deben ser en tiempo real y **la plataforma debe implementar 4**.
 
-Asi, los juegos tendran que comunicarse con *The steam* y proveerlo de informacion relevante para estas interacciones y que tengan efectos en los otros juegos, ya sea independientes o que tengan que ver con la logica del otro juego.
+Así, los juegos tendrán que comunicarse con *The steam* y proveerlo de información relevante para estas interacciones y que tengan efectos en los otros juegos, ya sea independientes o que tengan que ver con la lógica del otro juego.
 
 Para todo esto, se deberán asignar 2 miembros de cada grupo como representantes en el macrogrupo. Estos deberan ocuparse de la interfaz del grupo y de hacer fluir la conversacion entre los grupos del macrogrupo
 
@@ -139,11 +142,11 @@ Deben configurar sus *ambientes de desarrollo* con *Docker* ya que los corrector
 
 #### CI
 
-Se avisara como evaluaremos Continuous integration y Continuous deployment
+Se les pedirá realizar Continous Integration y Continous Deployment. Les indicaremos en que consiste en la entrega apropiada.
 
 #### Tests
 
-Se les pedira desarrollar tests para *The steam*. Les indicaremos en que consisten en la entrega apropiada
+Se les pedirá desarrollar tests para *The steam*. Les indicaremos en que consisten en la entrega apropiada.
 
 #### *README .md*
 
@@ -202,18 +205,18 @@ Existen extras para cada entrega que mejoran la nota, pero solo si funcionan. De
 * Multiplayer por juego (en tiempo real): 5%
 
 
-Actuan como ponderadores sobre la nota total del grupo
-Ej.:
-Si la aplicacion tiene multiplayer y tuvieron un 5.3
+Actuan como ponderadores sobre la nota total del grupo. Ej.: Si la aplicacion tiene multiplayer y tuvieron un 5.3
 
- 5.3 * 1.05 = 5.7
+ $5.3 * 1.05 = 5.7$
 
 ### Individual
 
 **E<sub>0</sub> = 1 + ((E<sub>0 grupal</sub> - 1) * F<sub>g</sub>)**			
 
-Donde F<sub>g</sub> es un factor de coevaluación asignado por el grupo que va de 0 a 1.2. Para esto se enviará un form de coevaluación donde cada integrante deberá evaluar a sus compañeros de grupo con una puntuación entre 1 y 5.
+Donde F<sub>g</sub> es un factor de coevaluación asignado por el grupo que va de 0 a 1.2. Para esto se enviará un form de coevaluación donde cada integrante deberá evaluar a sus compañeros de grupo con una puntuación entre 0 y 5. 
 
-El no hacer la coevaluación implica que se le entregó el mismo puntaje de coevaluación a cada integrante, es decir 4 puntos.
+**No podrán asignar a más de un compañero 5 puntos y sí lo hacen, se considerará que se entregó un máximo de 4 puntos a cada compañero**.
+
+De no hacer la coevaluación asumiermos que le entregó el mismo puntaje de coevaluación a cada integrante, es decir 4 puntos.
 
 NP = 0.15 * E<sub>0</sub> + 0.85 * PROMEDIO(E<sub>1</sub>,E<sub>2</sub>,E<sub>3</sub>,E<sub>4</sub>)

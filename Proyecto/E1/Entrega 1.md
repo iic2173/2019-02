@@ -1,3 +1,7 @@
+---
+tags: iic2713_ayud
+---
+
 # IIC2173 - Entrega 1
 
 ## Plazo
@@ -66,6 +70,15 @@ Segun el programa del curso, esto se evalua como:
 
 **E<sub>1</sub> = 1 + ((E<sub>1 grupal</sub> - 1) * F<sub>g</sub>)**			
 
+Donde F<sub>g</sub> es un factor de coevaluación asignado por el grupo que va de 0 a 1.2. Para esto se enviará un form de coevaluación donde cada integrante deberá evaluar a sus compañeros de grupo con una puntuación entre 0 y 5. 
+
+**No podrán asignar a más de un compañero 5 puntos y sí lo hacen, se considerará que se entregó un máximo de 4 puntos a cada compañero**.
+
+De no hacer la coevaluación asumiermos que le entregó el mismo puntaje de coevaluación a cada integrante, es decir 4 puntos.
+
+<!---
+El no hacer la coevaluación implica un **descuento de 1 punto** en la nota individual, y asumiermos que le entregó el mismo puntaje de coevaluación a cada integrante, es decir 4 puntos.
+
 Donde F<sub>g</sub> es un factor de coevaluación asignado por el grupo que va de 0 a 1.2. Para esto se enviará un form de coevaluación donde cada integrante deberá evaluar a sus compañeros de grupo con una puntuación entre 0 y 6. 
 
 **No podran asignar a más de un compañero 6 puntos y si lo hacen, alguien tiene que tener 4 puntos o menos**
@@ -73,3 +86,4 @@ Donde F<sub>g</sub> es un factor de coevaluación asignado por el grupo que va d
 De romper esta regla, tendran un **descuento de 1 punto** en su nota individual por la entrega
 
 El no hacer la coevaluación implica un **descuento de 1 punto** en la nota individual, y asumiermos que le entregó el mismo puntaje de coevaluación a cada integrante, es decir 4 puntos.
+--->
