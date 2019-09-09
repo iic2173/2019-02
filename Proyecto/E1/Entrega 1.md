@@ -2,9 +2,9 @@
 
 ## Plazo
 
-Fecha de entrega en repositorio: 23 de septiembre a las 23:59pm.
-Fecha de entrega coevaluación: 24 de septiembre a las 23:59pm.
-Presentación: 27 de septiembre a las 10:00am.
+* Fecha de entrega en repositorio: 23 de septiembre a las 23:59pm.
+* Fecha de entrega coevaluación: 24 de septiembre a las 23:59pm.
+* Presentación: 27 de septiembre a las 10:00am.
 
 ## Introduccion
 
