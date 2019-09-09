@@ -77,7 +77,7 @@ El curso posee 3 tipos de evaluación
 
 ### Interrogaciones y examen
 
-El curso contará con 3 interrogaciones a lo largo del semestre. Estas serán en horario de clases en las siguientes fechas:
+El curso contará con 2 interrogaciones a lo largo del semestre. Estas serán en horario de clases en las siguientes fechas:
 
 Interrogación     | Fecha
 :----------------:| -----------------------
