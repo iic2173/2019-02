@@ -1,7 +1,3 @@
----
-tags: iic2713_ayud
----
-
 # IIC2173 - Proyecto semestral
 
 ## Objetivos
