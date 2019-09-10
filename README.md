@@ -112,7 +112,7 @@ El proyecto grupal tiene 4 fases y estas son
 
 ID fase     | Publicación  | Entrega | Presentacion | Fase
 --------------| ------ | --- | ---- | ---------
-E<sub>1</sub> | 7 de septiembre | 23 de septiembre | 27 de septiembre | Propuesta y diseño
+E<sub>1</sub> | 7 de septiembre | 25 de septiembre | 27 de septiembre | Propuesta y diseño
 E<sub>2</sub> | 22 de septiembre  | 11 de octubre | 11 de octubre | Prototipo
 E<sub>3</sub> | 12 de octubre    | 8 de noviembre | 8 de noviembre | MVP
 E<sub>4</sub> | 9 de noviembre   | TBA | TBA | Producto finalizado
