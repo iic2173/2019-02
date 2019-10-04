@@ -77,4 +77,4 @@ Cada punto principal (negro) tiene asociado un puntaje, y un ponderador
 * Respuesta correcta a las preguntas
     * Las aclaraciones en este ítem pueden hacer que la calificacion suba en los otros ítems
 * Justificacion de los requisitos no funcionales de uno o más juegos
-    * Los miembros del grupo deben responder a las preguntas de al menos
+    * Los miembros del grupo deben responder a las preguntas de al menos uno de los juegos
