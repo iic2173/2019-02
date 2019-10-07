@@ -36,8 +36,13 @@ Para la segunda entrega, tanto como **grupo** y **macrogrupo**, les pediremos qu
     - Se deberán testear las funcionalidades realizadas.
     - El objetivo es que el CI que utilicen corra estos tests, por lo que deberían ser tests unitarios/integración.
 - Requisitos no funcionales
-    - Esto lo realizará solo el **grupo**. 
-    - Dependiendo de los requisitos no funcionales que escogieron se les notificará dentro de los próximos días las métricas objetivo. 
+    - Esto lo realizará solo el **grupo**.
+    - Performance: El juego debe demorar máximo 2 segundos en empezar. Y menos de 1.5 segundos para el 90% de los casos. 
+    - Seguridad: la mensajería entre componentes y aplicaciones debe realizarse de forma encriptada. Además, todas las contraseñas y variables de entorno **no** deben ser públicas.
+    - Confiabilidad: El juego debe poder guardar los datos de la partida ante alguna caída. El sistema de puntos debe reflejar los resultados reales de las partidas.
+    - Disponibilidad: En el caso de que un juego deje de funcionar o que la conexión a Steam se vea perjudicada por el internet u otro factor, se debe poder seguir utilizando el sistema. El usuario no puede saber que se cayó el sistema.
+    - Escalabilidad: Se deben realizar tests de carga para las interacciones entre los juegos ya que si se desean colocar más juegos o aumenta la carga del sistema, entonces las funcionalidades no podrán fallar. 
+    - Usabilidad: se debe realizar, con al menos 15 personas, pruebas de funcionalidad de las interacciones de la aplicación. Deben poder ser fácilmente usables desde el punto de vista del usuario. 
 
 
 Finalmente, se les pedirá que como macrogrupo, hagan una presentación en formato PDF que incluya lo siguiente:
