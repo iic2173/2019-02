@@ -3,9 +3,9 @@
 
 ## Plazo
 
-Fecha de entrega en repositorio: 11 de octubre a las 23:59pm.
-Fecha de entrega coevaluación: 12 de octubre a las 23:59pm.
-Presentación: 11 de octubre a las 10:00am.
+Fecha de entrega en repositorio: 18 de octubre a las 23:59pm.
+Fecha de entrega coevaluación: 20 de octubre a las 23:59pm.
+Presentación: 18 de octubre a las 10:00am.
 
 ## Introducción
 
@@ -29,11 +29,13 @@ Para la segunda entrega, tanto como **grupo** y **macrogrupo**, les pediremos qu
     - Los dominios TK son gratuitos, y pueden conseguirlos fácilmente en Freenom.
 - Docker
     - Deben configurar sus ambientes de desarrollo con Docker, en vista a usar docker-compose, AWS ECS, EKS u otro servicio de orquestado de containers.
+    - Esto se debe realizar para The Steam, ya que es un servicio web. Y los grupos que tengan servicios web también deberán tener Docker implementado. De no tener web, no será necesario.
 - Continuous integration
     - Se pedirá asociar el repositorio a Travis CI/Circle CI.
     - No será necesario que se haga *deploy* automáticamente en sus servidores (debido a la dificultad), sino que se ejecuten los tests cada vez que hagan pull request a _development_.
+    - Esto sólo se realizará para The Steam.
 - Testing
-    - Se deberán testear las funcionalidades realizadas.
+    - Se deberán testear las funcionalidades realizadas, principalmente las interacciones.
     - El objetivo es que el CI que utilicen corra estos tests, por lo que deberían ser tests unitarios/integración.
 - Requisitos no funcionales
     - Esto lo realizará solo el **grupo**.
