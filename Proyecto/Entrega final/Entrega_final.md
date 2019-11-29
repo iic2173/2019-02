@@ -153,7 +153,9 @@ La idea de la entrega es que puedan completar al menos 4 de los 8 desafíos que 
 
 #### X) Propuesta
 
-* Pueden proponer alguna feature y niveles de logro para esta. Sin embargo, se recomienda consultar antes, ya que puede no ser aprobada y tendrán que elegir la otra que hayan escogido en el form de inscripción.
+* Pueden proponer alguna feature y niveles de logro para esta. 
+* Deben dividir los niveles de logro en 3, para poder evaluarlos
+* Se recomienda consultar antes, ya que puede no ser aprobada y tendrán que elegir la otra que hayan escogido en el form de inscripción.
 
 
 ## Entrega
