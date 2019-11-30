@@ -82,7 +82,7 @@ La idea de la entrega es que puedan completar al menos 4 de los 8 desafíos que 
 ---
 
  
-#### 5) *Beyond Travis*: AWS codepipeline (build, deploy) para la app del macrogrupo (*No usar travis*)
+#### 5) *Beyond Travis*: AWS codepipeline (build, deploy) para la app de la entrega 0 (*No usar travis*)
 * *Pueden usar Google Deployment Manager, pero no tiene diagramas al parecer)*
 * RNF evaluado: 
     * Niveles de logro:
@@ -142,7 +142,7 @@ La idea de la entrega es que puedan completar al menos 4 de los 8 desafíos que 
 
 * RNF evaluado: Consistencia y Confiabilidad.
     * Niveles de logro
-        * **(0.6)** Crear una mini API (online) que pueda adaptar los *n* chats y canalizar los mensajes de la sala principal de cada chat
+        * **(0.6)** Crear una mini API (online) que pueda adaptar 3 o más chats y canalizar los mensajes de la sala principal de cada chat
         * **(0.3)** Tener una API REST documentada para esto
         * **(0.6)** Que los mensajes recibidos se vean en ambas aplicaciones
 
