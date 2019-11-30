@@ -82,7 +82,7 @@ La idea de la entrega es que puedan completar al menos 4 de los 8 desafíos que 
 ---
 
  
-#### 5) *Beyond Travis*: AWS codepipeline (build, deploy) para la app de la entrega 0 (*No usar travis*)
+#### 5) *Beyond Travis*: AWS codepipeline (build, deploy) para la app de la entrega 0 (*No usar travis, ni Circle CI, solo codepipeline*)
 * *Pueden usar Google Deployment Manager, pero no tiene diagramas al parecer)*
 * RNF evaluado: 
     * Niveles de logro:
